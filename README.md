@@ -32,7 +32,7 @@ Keep coming back to this repo for more updates about the Hackathon!
 
 
 # Judging Criteria
-
+Projects will be evaluated by a panel of judges based on innovation, impact, usability and execution. Top solutions will be announced during a special event on Wednesday, Dec. 2.
 
 # Code of Conduct
 - [Participant Code of Conduct](https://docs.google.com/document/d/1mk774v4lU263N9Tj3ujF7GNHaHJZpjSRMXcqbJslf_g/edit?usp=sharing)
